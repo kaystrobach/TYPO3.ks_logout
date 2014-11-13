@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'ks_logout'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Logout Redirector</label>
+			<label index="pi1_plus_wiz_description">logout the current user</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Logout Modul</label>
+			<label index="pi1_plus_wiz_description">Abmelden des Aktuellen Benutzers</label>
+		</languageKey>
+	</data>
+</T3locallang>
